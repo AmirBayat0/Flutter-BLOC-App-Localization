@@ -1,4 +1,4 @@
-# FLUTTER App Localizations Feature with BLOC Library & Shared Preferences
+# FLUTTER App Localizations Feature with BLOC Pattern & Shared Preferences
 ### [Watch on YouTube](https://youtu.be/eoOmyzNqvsk)
 [![Main](https://img.youtube.com/vi/eoOmyzNqvsk/0.jpg)](https://www.youtube.com/watch?v=eoOmyzNqvsk)
 
