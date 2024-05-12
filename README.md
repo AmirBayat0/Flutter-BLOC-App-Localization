@@ -3,7 +3,8 @@
 [![Main](https://img.youtube.com/vi/eoOmyzNqvsk/0.jpg)](https://www.youtube.com/watch?v=eoOmyzNqvsk)
 
 # Overview
- 
+This repository provides a step-by-step guide for implementing real-time language switching in your Flutter app using Bloc for state management and Shared Preferences for persistent storage.
+This approach simplifies localization, allowing you to deliver a global user experience effortlessly.
 
 ## Installation
 To get started with this repository, follow these steps:
@@ -18,7 +19,6 @@ To get started with this repository, follow these steps:
 
 ## Acknowledgements:
 - Special thanks to the Flutter community for their valuable contributions and insights into Flutter app development.
-
 
 ## This link allows you to support me, and I appreciate your help:
 * [SUPPORT](https://www.buymeacoffee.com/AmirBayat)
