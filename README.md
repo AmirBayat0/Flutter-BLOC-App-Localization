@@ -12,7 +12,7 @@ To get started with this repository, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the project in your preferred Flutter IDE.
 3. Run flutter pub get to install dependencies.
-4. Start exploring the provided code examples and documentation.
+4. Start exploring the provided code examples
 
 ## License:
 * This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your projects.
