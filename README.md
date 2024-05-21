@@ -5,6 +5,9 @@
 # Overview
 This repository provides a step-by-step guide for implementing real-time language switching in your Flutter app using Bloc for state management and Shared Preferences for persistent storage.
 This approach simplifies localization, allowing you to deliver a global user experience effortlessly.
+![gigu-min](https://github.com/AmirBayat0/Flutter-BLOC-App-Localization/assets/91388754/91d9bd43-eb39-4d5e-8dde-1bee1c7a30c0)
+
+
 
 ## Installation
 To get started with this repository, follow these steps:
